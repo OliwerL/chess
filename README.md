@@ -85,14 +85,4 @@ Here are some screenshots showcasing the application:
 ![Move Log](images/logger.png)
 *Screenshot showing the move log window with moves recorded step-by-step.*
 
-
-
-## Future Development
-
-Planned improvements include:
-- **Online Matchmaking**: A lobby system for easier player connections.
-- **Improved Graphics**: Additional themes and board customization.
-- **Mobile Compatibility**: Expanding the application to support mobile devices.
-- **Advanced AI**: Enhancing the AI engine with machine learning techniques for stronger gameplay.
-
 ---
